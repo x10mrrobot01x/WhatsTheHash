@@ -17,3 +17,4 @@ python wth.py
  
 Alternatively can be double clicked on
 ```
+<img src=wth.png></img>
