@@ -1,6 +1,7 @@
 # WhatsTheHash
-WhatsTheHash is a script that takes a hashed string as input and tries to tell you what hash type it is. 
 <img src=crypto.jpg></img>
+WhatsTheHash is a script that takes a hashed string as input and tries to tell you what hash type it is. 
+
 ## Installation
 ```
 git clone https://github.com/x10mrrobot01x/WhatsTheHash.git
